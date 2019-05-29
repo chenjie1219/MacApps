@@ -15,7 +15,7 @@
 
 ---
 
-## CleanMyMac X `4.4.1`
+## CleanMyMac X `4.4.2`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/CleanMyMac%20X.dmg)
 
 ![](Icons/CleanMyMacX.png)
@@ -55,7 +55,7 @@ MWeb 是一款Mac上专业的Markdown写作、记笔记、静态博客生成软�
 
 ![](Assets/MWeb.jpg)
 
-## Beyond Compare
+## Beyond Compare `4.2.10`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Beyond%20Compare.dmg)
 
 ![](Icons/BeyondCompare.png)
@@ -144,7 +144,7 @@ MacBooster 是一款Mac上优秀的系统安全扫描和垃圾清理工具，Mac
 
 ![](Assets/MacBooster.jpg)
 
-## iMazing `2.9.7`
+## iMazing `2.9.9`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/iMazing.dmg)
 
 ![](Icons/iMazing.png)
@@ -192,7 +192,7 @@ Pixelmator Pro 是知名的绘图软件Pixelmator的专业高级版本，专为M
 
 ![](Assets/PixelmatorPro.jpg)
 
-## 1Password `7.2.6`
+## 1Password `7.3`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/1Password.dmg)
 
 ![](Icons/1Password.png)
