@@ -264,6 +264,14 @@ VMware Fusion Pro 将 Mac® 上的虚拟化提升到更高的级别，它拥有�
 
 ![](Assets/VMwareFusionPro.jpg)
 
+## Parallels Desktop `14.1.3`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Parallels%20Desktop.dmg)
+
+![](Icons/ParallelsDesktop.png)
+Parallels Desktop for Mac 是功能最强大灵活度最高的虚拟化方案，无需重启即可在同一台电脑上随时访问Windows和Mac两个系统上的众多应用程序。从仅限于PC的游戏到生产力软件，Parallels Desktop都能帮您实现便捷使用。
+
+![](Assets/ParallelsDesktop.jpg)
+
 ## Adobe Zii 2019 `4.3.1`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Adobe%20Zii.dmg)
 
