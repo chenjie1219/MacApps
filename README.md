@@ -326,3 +326,10 @@ Adobe Lightroom CC 2019(New)
 ![](Icons/ParagonNTFS.png)
 Paragon NTFS 可以说是 Mac 上最知名的一款 NTFS 分区驱动了，能够让我们读写 NTFS 分区，因为在Mac OS X 系统上，默认对NTFS分区只能读而不能写，但我们的移动硬盘或U盘很多都是用NTFS进行的分区，所以当你发现在Mac上无法往移动硬盘或U盘中写入数据时，大部分原因是你没有按照NTFS分区驱动，安装此软件即可。
 ![](Assets/ParagonNTFS.jpg)
+##  Path Finder `8.5.1`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Path%20Finder.dmg)
+
+![](Icons/PathFinder.png)
+Path Finder 是一个文件浏览器，结合熟悉的搜索界面与强大的实用程序和创新的功能。Path Finder  是一款功能强劲并足以取代Finder的超赞软件，它完全能够媲美Finder，并且屡受好评。
+![](Assets/PathFinder.jpg)
+
