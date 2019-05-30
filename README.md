@@ -104,7 +104,7 @@ Navicat Premium 是最优秀的数据库图形化管理客户端，支持MySQL�
 
 ![](Assets/NavicatPremium.jpg)
 
-## Downie `3.7.2`
+## Downie `3.7.4`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Downie.dmg)
 
 ![](Icons/Downie.png)
@@ -176,7 +176,7 @@ Alfred 是Mac上最好用的快速启动工具，修复了大量问题，Alfred�
 
 ![](Assets/Alfred.jpg)
 
-## Sketch `55`
+## Sketch `55.1`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Sketch.dmg)
 
 ![](Icons/Sketch.png)
@@ -332,4 +332,24 @@ Paragon NTFS 可以说是 Mac 上最知名的一款 NTFS 分区驱动了，能�
 ![](Icons/PathFinder.png)
 Path Finder 是一个文件浏览器，结合熟悉的搜索界面与强大的实用程序和创新的功能。Path Finder  是一款功能强劲并足以取代Finder的超赞软件，它完全能够媲美Finder，并且屡受好评。
 ![](Assets/PathFinder.jpg)
+##  DMG Canvas `2.4.1`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/DMG%20Canvas.dmg)
+
+![](Icons/DMGCanvas.png)
+DMG Canvas是一款Mac上快速生成DMG镜像的工具，能够自定义镜像的背景、名称、窗口大小和出现位置等等，非常的好用！
+![](Assets/DMGCanvas.jpg)
+##  Polarr Photo Editor Pro `5.5.1`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Polarr%20Photo%20Editor%20Pro.dmg)
+
+![](Icons/PolarrPhotoEditorPro.png)
+泼辣修图是一款Mac上给广大摄影玩家和发烧友设计的高级且易用的修图软件，增加了Photos.app 拓展插件等功能，软件小巧但功能强大，12组高质量的滤镜组合针对迅速修片！
+![](Assets/PolarrPhotoEditorPro.jpg)
+##  Keka `1.1.15`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Keka.dmg)
+
+![](Icons/Keka.png)
+Keka 是比较常用的压缩软件，体积小，简单易用，速度较快。
+支持压缩：7z、Zip、Tar、Gzip、Bzip2。
+支持解压：RAR、7z、Lzma、Zip、Tar、Gzip、Bzip2、ISO、EXE、CAB、PAX、ACE(PPC)。
+![](Assets/Keka.jpg)
 
