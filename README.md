@@ -364,3 +364,15 @@ PDF Expert 是备受称赞的PDF阅读工具，界面简洁、PDF打开和浏览
 ![](Icons/AdGuard.png)
 Adguard 是一款功能强大的广告和弹出窗口拦截工具。它适用于所有安装的浏览器，如Firefox、Opera等，有效去除烦人的广告，减少了页面加载时间，并节省您的流量。而且，Adguard还能有效过滤包括反钓鱼和反恶意。
 ![](Assets/AdGuard.jpg)
+##  Enolsoft PDF Converter with OCR `6.3.0`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Enolsoft%20PDF%20Converter%20with%20OCR.dmg)
+
+![](Icons/EnolsoftPDFConverterwithOCR.png)
+PDF Converter with OCR for Mac是一款具有OCR(光学字符识别技术)的PDF转换器，pdf converter with ocr mac版可以准确识别PDF中的文本，图像和表格，能够将PDF转换为完全15种文档格式，功能非常强大。
+![](Assets/EnolsoftPDFConverterwithOCR.jpg)
+##  Wondershare Recoverit `8.0.1.6`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Recoverit.dmg)
+
+![](Icons/Recoverit.png)
+Wondershare Recoverit 是一个非常可靠的数据恢复工具，它可以从任何存储介质中恢复数据。无论你的数据从哪里丢失，它就能从哪里帮您找回来，包括删除的文件，回收站，格式化磁盘，分区丢失，外部设备，病毒攻击数据等等。
+![](Assets/Recoverit.jpg)
