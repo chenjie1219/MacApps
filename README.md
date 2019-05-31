@@ -168,7 +168,7 @@ Icons for mac是一款运行在macOS平台上的图标素材软件。这款软�
 
 ![](Assets/Icons.jpg)
 
-## Alfred
+## Alfred `4.0.1`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Alfred.dmg)
 
 ![](Icons/Alfred.png)
