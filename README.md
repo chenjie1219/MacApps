@@ -358,3 +358,9 @@ Keka 是比较常用的压缩软件，体积小，简单易用，速度较快。
 ![](Icons/PDFExpert.png)
 PDF Expert 是备受称赞的PDF阅读工具，界面简洁、PDF打开和浏览速度都很不错，要比自带的预览好用多了.
 ![](Assets/PDFExpert.jpg)
+##  AdGuard `2.0.4`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/AdGuard.dmg)
+
+![](Icons/AdGuard.png)
+Adguard 是一款功能强大的广告和弹出窗口拦截工具。它适用于所有安装的浏览器，如Firefox、Opera等，有效去除烦人的广告，减少了页面加载时间，并节省您的流量。而且，Adguard还能有效过滤包括反钓鱼和反恶意。
+![](Assets/AdGuard.jpg)
