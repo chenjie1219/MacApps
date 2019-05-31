@@ -352,4 +352,9 @@ Keka 是比较常用的压缩软件，体积小，简单易用，速度较快。
 支持压缩：7z、Zip、Tar、Gzip、Bzip2。
 支持解压：RAR、7z、Lzma、Zip、Tar、Gzip、Bzip2、ISO、EXE、CAB、PAX、ACE(PPC)。
 ![](Assets/Keka.jpg)
+##  PDF Expert `2.4.23`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/PDF%20Expert.dmg)
 
+![](Icons/PDFExpert.png)
+PDF Expert 是备受称赞的PDF阅读工具，界面简洁、PDF打开和浏览速度都很不错，要比自带的预览好用多了.
+![](Assets/PDFExpert.jpg)
