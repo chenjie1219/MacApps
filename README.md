@@ -279,21 +279,37 @@ Parallels Desktop for Mac 是功能最强大灵活度最高的虚拟化方案，
 目前支持以下Adobe CC 2019 Mac 授权激活
 
 Adobe Acrobat DC
+
 Adobe After Effects CC 2019
+
 Adobe Animate CC 2019
+
 Adobe Audition CC 2019
+
 Adobe Bridge CC 2019
+
 Adobe Character Animator CC 2019
+
 Adobe Dreamweaver CC 2019
+
 Adobe Illustrator CC 2019
+
 Adobe InCopy CC 2019
+
 Adobe InDesign CC 2019
+
 Adobe Lightroom CC
+
 Adobe Lightroom Classic CC
+
 Adobe Media Encoder CC 2019
+
 Adobe Photoshop CC 2019
+
 Adobe Prelude CC 2019
+
 Adobe Premiere Pro CC 2019
+
 Adobe XD CC
 
 其余的等待TNT团队更新
