@@ -272,37 +272,29 @@ Parallels Desktop for Mac 是功能最强大灵活度最高的虚拟化方案，
 
 ![](Assets/ParallelsDesktop.jpg)
 
-## Adobe Zii 2019 `4.3.1`
-[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Adobe%20Zii.dmg)
+## Adobe Zii Patcher `4.3.3`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Adobe%20Zii%20Patcher.dmg)
 
 ![](Icons/AdobeZii.png)
 目前支持以下Adobe CC 2019 Mac 授权激活
 
-Adobe Illustrator CC 2019
-
-Adobe InCopy CC 2019
-
-Adobe Prelude CC 2019
-
-Adobe Premiere Pro CC 2019
-
-Adobe Photoshop CC 2019
-
+Adobe Acrobat DC
 Adobe After Effects CC 2019
-
-Adobe Media Encoder CC 2019
-
-Adobe Lightroom Classic CC 2019
-
-Adobe Adob​​e Audition CC 2019
-
-Adobe Bridge CC 2019 v9 .0.2
-
+Adobe Animate CC 2019
+Adobe Audition CC 2019
+Adobe Bridge CC 2019
 Adobe Character Animator CC 2019
-
-Adobe InDesign CC 2019(New)
-
-Adobe Lightroom CC 2019(New)
+Adobe Dreamweaver CC 2019
+Adobe Illustrator CC 2019
+Adobe InCopy CC 2019
+Adobe InDesign CC 2019
+Adobe Lightroom CC
+Adobe Lightroom Classic CC
+Adobe Media Encoder CC 2019
+Adobe Photoshop CC 2019
+Adobe Prelude CC 2019
+Adobe Premiere Pro CC 2019
+Adobe XD CC
 
 其余的等待TNT团队更新
 
@@ -352,7 +344,7 @@ Keka 是比较常用的压缩软件，体积小，简单易用，速度较快。
 支持压缩：7z、Zip、Tar、Gzip、Bzip2。
 支持解压：RAR、7z、Lzma、Zip、Tar、Gzip、Bzip2、ISO、EXE、CAB、PAX、ACE(PPC)。
 ![](Assets/Keka.jpg)
-##  PDF Expert `2.4.23`
+##  PDF Expert `2.4.24`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/PDF%20Expert.dmg)
 
 ![](Icons/PDFExpert.png)
@@ -376,3 +368,9 @@ PDF Converter with OCR for Mac是一款具有OCR(光学字符识别技术)的PDF
 ![](Icons/Recoverit.png)
 Wondershare Recoverit 是一个非常可靠的数据恢复工具，它可以从任何存储介质中恢复数据。无论你的数据从哪里丢失，它就能从哪里帮您找回来，包括删除的文件，回收站，格式化磁盘，分区丢失，外部设备，病毒攻击数据等等。
 ![](Assets/Recoverit.jpg)
+##  Axure RP `9.0.0.3650`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Axure%20RP.dmg)
+
+![](Icons/AxureRP.png)
+Axure RP是最知名和最强大的专业的快速原型设计工具，让负责定义需求和规格、设计功能和界面的专家能够快速创建应用软件或Web网站的线框图、流程图、原型和规格说明文档。
+![](Assets/AxureRP.jpg)
