@@ -272,7 +272,7 @@ Parallels Desktop for Mac 是功能最强大灵活度最高的虚拟化方案，
 
 ![](Assets/ParallelsDesktop.jpg)
 
-## Adobe Zii Patcher `4.3.3`
+## Adobe Zii Patcher `4.3.4`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Adobe%20Zii%20Patcher.dmg)
 
 ![](Icons/AdobeZii.png)
