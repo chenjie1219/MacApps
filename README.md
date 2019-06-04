@@ -312,6 +312,8 @@ Adobe Premiere Pro CC 2019
 
 Adobe XD CC
 
+Adobe Premiere Rush
+
 其余的等待TNT团队更新
 
 **使用说明**
