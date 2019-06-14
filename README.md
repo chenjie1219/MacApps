@@ -144,7 +144,7 @@ MacBooster 是一款Mac上优秀的系统安全扫描和垃圾清理工具，Mac
 
 ![](Assets/MacBooster.jpg)
 
-## iMazing `2.9.10`
+## iMazing `2.9.12`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/iMazing.zip)
 
 ![](Icons/iMazing.png)
@@ -272,7 +272,7 @@ Parallels Desktop for Mac 是功能最强大灵活度最高的虚拟化方案，
 
 ![](Assets/ParallelsDesktop.jpg)
 
-## Adobe Zii Patcher `4.3.5`
+## Adobe Zii Patcher `4.3.6`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Adobe%20Zii%20Patcher.zip)
 
 ![](Icons/AdobeZii.png)
@@ -354,7 +354,7 @@ DMG Canvas是一款Mac上快速生成DMG镜像的工具，能够自定义镜像�
 ![](Icons/PolarrPhotoEditorPro.png)
 泼辣修图是一款Mac上给广大摄影玩家和发烧友设计的高级且易用的修图软件，增加了Photos.app 拓展插件等功能，软件小巧但功能强大，12组高质量的滤镜组合针对迅速修片！
 ![](Assets/PolarrPhotoEditorPro.jpg)
-##  Keka `1.1.15`
+##  Keka `1.1.16`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Keka.zip)
 
 ![](Icons/Keka.png)
