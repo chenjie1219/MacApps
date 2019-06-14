@@ -398,3 +398,9 @@ Axure RP是最知名和最强大的专业的快速原型设计工具，让负责
 ![](Icons/Fantastical.png)
 Fantastical 2是iOS & Mac 平台最知名的日历应用，增加很多新的功能，带来了诸多卓越的日历体验。Fantastical 2 采用了全新的设计风格，和 Yosemite 系统十分贴合，增加了大量新的功能，如Handoff协作、黑白颜色、完全时区、本地语言等等！
 ![](Assets/Fantastical.jpg)
+##  iText `1.3.0`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/iText.zip)
+
+![](Icons/iText.png)
+iText是一款从图片中识别文字的OCR（光学字符识别）工具。通过截图、拖拽图片，即可以从扫描版的PDF等任意图片中识字，并且可以很好的解决摘抄和批注需求。使用腾讯、Google双引擎，识别效果惊人地准确。
+![](Assets/iText.jpg)
