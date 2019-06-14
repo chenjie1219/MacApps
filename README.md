@@ -368,7 +368,7 @@ Keka 是比较常用的压缩软件，体积小，简单易用，速度较快。
 ![](Icons/PDFExpert.png)
 PDF Expert 是备受称赞的PDF阅读工具，界面简洁、PDF打开和浏览速度都很不错，要比自带的预览好用多了.
 ![](Assets/PDFExpert.jpg)
-##  AdGuard `2.0.4`
+##  AdGuard `2.0.6`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/AdGuard.zip)
 
 ![](Icons/AdGuard.png)
@@ -404,3 +404,9 @@ Fantastical 2是iOS & Mac 平台最知名的日历应用，增加很多新的功
 ![](Icons/iText.png)
 iText是一款从图片中识别文字的OCR（光学字符识别）工具。通过截图、拖拽图片，即可以从扫描版的PDF等任意图片中识字，并且可以很好的解决摘抄和批注需求。使用腾讯、Google双引擎，识别效果惊人地准确。
 ![](Assets/iText.jpg)
+##  uBar `4.1.4`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/uBar.zip)
+
+![](Icons/uBar.png)
+uBar 是一款让你的 Mac 拥有类似 Windows 的任务栏的工具，如果你不想要 Dock 栏，还是喜欢 Windows 上的任务栏，那么这款软件就可以帮助你实现这个需求，当然，Dock和任务栏也可以一起使用
+![](Assets/uBar.jpg)
