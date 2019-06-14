@@ -392,3 +392,9 @@ Wondershare Recoverit 是一个非常可靠的数据恢复工具，它可以从�
 ![](Icons/AxureRP.png)
 Axure RP是最知名和最强大的专业的快速原型设计工具，让负责定义需求和规格、设计功能和界面的专家能够快速创建应用软件或Web网站的线框图、流程图、原型和规格说明文档。
 ![](Assets/AxureRP.jpg)
+##  Fantastical 2 `2.5.9`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Fantastical%202.zip)
+
+![](Icons/Fantastical.png)
+Fantastical 2是iOS & Mac 平台最知名的日历应用，增加很多新的功能，带来了诸多卓越的日历体验。Fantastical 2 采用了全新的设计风格，和 Yosemite 系统十分贴合，增加了大量新的功能，如Handoff协作、黑白颜色、完全时区、本地语言等等！
+![](Assets/Fantastical.jpg)
