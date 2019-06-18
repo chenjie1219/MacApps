@@ -330,7 +330,7 @@ Adobe Premiere Rush
 
 下载并安装 Microsoft Office 2019 for Mac 安装包，然后安装 Microsoft_Office_2019_VL_Serializer.pkg
 ![](Assets/Microsoft_Office_2019_VL_Serializer.jpg)
-##  Paragon NTFS `15.5.41`
+##  Paragon NTFS `15.5.53`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Paragon%20NTFS.zip)
 
 ![](Icons/ParagonNTFS.png)
