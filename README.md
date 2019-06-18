@@ -120,7 +120,7 @@ Creo for Mac开发工具，移动应用，集成了支持设计的用户界面�
 
 ![](Assets/Creo.jpg)
 
-## Transmit `5.2.4`
+## Transmit `5.5.0`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Transmit.zip)
 
 ![](Icons/Transmit.png)
