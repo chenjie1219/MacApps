@@ -63,7 +63,7 @@ Beyond Compare这是一款号称码农神器的软件，Beyond Compare能够在M
 
 ![](Assets/BeyondCompare.jpg)
 
-## IconFly `3.9`
+## IconFly `3.9.1`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/IconFly.zip)
 
 ![](Icons/IconFly.png)
@@ -272,7 +272,7 @@ Parallels Desktop for Mac 是功能最强大灵活度最高的虚拟化方案，
 
 ![](Assets/ParallelsDesktop.jpg)
 
-## Adobe Zii Patcher `4.3.6`
+## Adobe Zii Patcher `4.3.7`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Adobe%20Zii%20Patcher.zip)
 
 ![](Icons/AdobeZii.png)
@@ -348,7 +348,7 @@ Path Finder 是一个文件浏览器，结合熟悉的搜索界面与强大的�
 ![](Icons/DMGCanvas.png)
 DMG Canvas是一款Mac上快速生成DMG镜像的工具，能够自定义镜像的背景、名称、窗口大小和出现位置等等，非常的好用！
 ![](Assets/DMGCanvas.jpg)
-##  Polarr Photo Editor Pro `5.5.4`
+##  Polarr Photo Editor Pro `5.5.7`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Polarr%20Photo%20Editor%20Pro.zip)
 
 ![](Icons/PolarrPhotoEditorPro.png)
@@ -410,3 +410,9 @@ iText是一款从图片中识别文字的OCR（光学字符识别）工具。通
 ![](Icons/uBar.png)
 uBar 是一款让你的 Mac 拥有类似 Windows 的任务栏的工具，如果你不想要 Dock 栏，还是喜欢 Windows 上的任务栏，那么这款软件就可以帮助你实现这个需求，当然，Dock和任务栏也可以一起使用
 ![](Assets/uBar.jpg)
+##  PDF Squeezer `3.10.3`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/PDF%20Squeezer.zip)
+
+![](Icons/PDFSqueezer.png)
+PDF Squeezer是一款Mac上压缩PDF文件大小的工具，仅需要简单的拖拽，就可以快速的压缩PDF文件的体积，针对图片生成的PDF文件可以很好的压缩大小，支持批量处理和自定义压缩配置。
+![](Assets/PDFSqueezer.jpg)
