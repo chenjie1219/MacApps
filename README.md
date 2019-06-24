@@ -416,3 +416,9 @@ uBar 是一款让你的 Mac 拥有类似 Windows 的任务栏的工具，如果�
 ![](Icons/PDFSqueezer.png)
 PDF Squeezer是一款Mac上压缩PDF文件大小的工具，仅需要简单的拖拽，就可以快速的压缩PDF文件的体积，针对图片生成的PDF文件可以很好的压缩大小，支持批量处理和自定义压缩配置。
 ![](Assets/PDFSqueezer.jpg)
+##  Goldie App `1.3.1`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Goldie%20App.zip)
+
+![](Icons/GoldieApp.png)
+Goldie App 是mac上一款非常强大的黄金比例设计工具，Goldie App体积小巧，可以驻留在系统的菜单栏之上，随时提供给用户调用。而且拥有独特的计算功能，可以帮助你在任何需要的时候获得精确的黄金比例。还有先进的设置和美丽的黑暗模式可以选择，非常好用！
+![](Assets/GoldieApp.jpg)
