@@ -422,3 +422,9 @@ PDF Squeezer是一款Mac上压缩PDF文件大小的工具，仅需要简单的�
 ![](Icons/GoldieApp.png)
 Goldie App 是mac上一款非常强大的黄金比例设计工具，Goldie App体积小巧，可以驻留在系统的菜单栏之上，随时提供给用户调用。而且拥有独特的计算功能，可以帮助你在任何需要的时候获得精确的黄金比例。还有先进的设置和美丽的黑暗模式可以选择，非常好用！
 ![](Assets/GoldieApp.jpg)
+##  Enolsoft PDF Password Remover `3.0.1`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Enolsoft%20PDF%20Password%20Remover.zip)
+
+![](Icons/EnolsoftPDFPasswordRemover.png)
+解锁PDF，解锁内容，删除Mac上的PDF密码，以便轻松打开，编辑和打印PDF。
+![](Assets/EnolsoftPDFPasswordRemover.jpg)
