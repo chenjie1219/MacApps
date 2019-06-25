@@ -428,3 +428,9 @@ Goldie App 是mac上一款非常强大的黄金比例设计工具，Goldie App�
 ![](Icons/EnolsoftPDFPasswordRemover.png)
 解锁PDF，解锁内容，删除Mac上的PDF密码，以便轻松打开，编辑和打印PDF。
 ![](Assets/EnolsoftPDFPasswordRemover.jpg)
+##  XMind ZEN `9.2.1`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/XMind%20ZEN.zip)
+
+![](Icons/XMindZEN.png)
+XMind ZEN 是一款全新的思维导图软件，也是Xmind新出的产品。Xmind ZEN采用全新的内核，拥有经典Xmind操作体验，完美坐到一种全新却不失经典的体验，界面简洁，上手容易操作简单。
+![](Assets/XMindZEN.jpg)
