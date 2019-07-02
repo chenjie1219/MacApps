@@ -104,7 +104,7 @@ Navicat Premium 是最优秀的数据库图形化管理客户端，支持MySQL�
 
 ![](Assets/NavicatPremium.jpg)
 
-## Downie `3.7.7`
+## Downie `3.7.8`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Downie%203.zip)
 
 ![](Icons/Downie.png)
