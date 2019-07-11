@@ -136,7 +136,7 @@ Dash 是使用与Mac OS平台的软件编程文档管理工具，可以浏览API
 
 ![](Assets/Dash.jpg)
 
-## MacBooster `7.2.4`
+## MacBooster `7.2.5`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/MacBooster.zip)
 
 ![](Icons/MacBooster.png)
@@ -272,7 +272,7 @@ Parallels Desktop for Mac 是功能最强大灵活度最高的虚拟化方案，
 
 ![](Assets/ParallelsDesktop.jpg)
 
-## Adobe Zii Patcher `4.3.7`
+## Adobe Zii Patcher `4.3.8`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Adobe%20Zii%20Patcher.zip)
 
 ![](Icons/AdobeZii.png)
