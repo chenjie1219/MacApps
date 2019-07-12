@@ -152,8 +152,8 @@ iMazing 是一款Mac上优秀的 iOS 设备管理工具，功能与 iTools Pro �
 
 ![](Assets/iMazing.jpg)
 
-## MarginNote
-[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/MarginNote.dmg)
+## MarginNote `3.3.6007`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/MarginNote.zip)
 
 ![](Icons/MarginNote.png)
 MarginNote 是一款Mac上功能强大的阅读和学习工具软件，它将PDF/EPUB阅读器和多种学习工具集成起来，使得学习者可以在学习时从不同的维度将知识进行重组，连接，从而达到记住，领会的效果，很不错的一款阅读学习工具！
