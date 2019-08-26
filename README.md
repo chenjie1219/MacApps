@@ -15,7 +15,7 @@
 
 ---
 
-## CleanMyMac X `4.4.4`
+## CleanMyMac X `4.4.6`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/CleanMyMac%20X.zip)
 
 ![](Icons/CleanMyMacX.png)
@@ -47,7 +47,7 @@ Reveal 是Mac os平台上的一款开发者调试IOS应用的Mac开发软件，�
 
 ![](Assets/Reveal.gif)
 
-## MWeb `3.2.2`
+## MWeb `3.2.3`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/MWeb.zip)
 
 ![](Icons/MWeb.png)
@@ -88,7 +88,7 @@ FlawlessApp 是一款专为UI设计师及开发者打造的一款UI原型矫正�
 
 ![](Assets/FlawlessApp.jpg)
 
-## Archiver `3.0.6`
+## Archiver `3.0.7`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Archiver.zip)
 
 ![](Icons/Archiver.png)
@@ -104,7 +104,7 @@ Navicat Premium 是最优秀的数据库图形化管理客户端，支持MySQL�
 
 ![](Assets/NavicatPremium.jpg)
 
-## Downie `3.7.8`
+## Downie `3.8.2`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Downie%203.zip)
 
 ![](Icons/Downie.png)
@@ -112,7 +112,7 @@ Downie 是一款Mac上的非常好用的在线视频下载工具，支持包括Y
 
 ![](Assets/Downie.jpg)
 
-## Creo `2.0.6`
+## Creo `2.1.1`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Creo.zip)
 
 ![](Icons/Creo.png)
@@ -120,7 +120,7 @@ Creo for Mac开发工具，移动应用，集成了支持设计的用户界面�
 
 ![](Assets/Creo.jpg)
 
-## Transmit `5.5.1`
+## Transmit `5.5.2`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Transmit.zip)
 
 ![](Icons/Transmit.png)
@@ -128,7 +128,7 @@ Transmit 是一款 Mac 上的 FTP 客户端，无论在界面还是用户体验�
 
 ![](Assets/Transmit.jpg)
 
-## Dash `4.6.3`
+## Dash `4.6.5`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Dash.zip)
 
 ![](Icons/Dash.png)
@@ -144,7 +144,7 @@ MacBooster 是一款Mac上优秀的系统安全扫描和垃圾清理工具，Mac
 
 ![](Assets/MacBooster.jpg)
 
-## iMazing `2.9.13`
+## iMazing `2.9.14`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/iMazing.zip)
 
 ![](Icons/iMazing.png)
@@ -168,7 +168,7 @@ Icons for mac是一款运行在macOS平台上的图标素材软件。这款软�
 
 ![](Assets/Icons.jpg)
 
-## Alfred `4.0.3`
+## Alfred `4.0.4`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Alfred%204.zip)
 
 ![](Icons/Alfred.png)
@@ -176,7 +176,7 @@ Alfred 是Mac上最好用的快速启动工具，修复了大量问题，Alfred�
 
 ![](Assets/Alfred.jpg)
 
-## Sketch `55.2`
+## Sketch `57.1`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Sketch.zip)
 
 ![](Icons/Sketch.png)
@@ -208,7 +208,7 @@ Sublime Text 是Mac os平台上的一款非常不错的代码编辑器,同时 Su
 
 ![](Assets/SublimeText.jpg)
 
-## iRingg `1.0.38`
+## iRingg `1.0.40`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/iRingg.zip)
 
 ![](Icons/iRingg.png)
@@ -224,7 +224,7 @@ ePublr 是一款将文档转换为epub文件格式的工具。它不仅以不同
 
 ![](Assets/ePublr.jpg)
 
-## Boom 3D `1.2.4`
+## Boom 3D `1.3.1`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Boom%203D.zip)
 
 ![](Icons/Boom3D.png)
@@ -272,7 +272,7 @@ Parallels Desktop for Mac 是功能最强大灵活度最高的虚拟化方案，
 
 ![](Assets/ParallelsDesktop.jpg)
 
-## Adobe Zii Patcher `4.3.9`
+## Adobe Zii Patcher `4.4.2`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Adobe%20Zii%20Patcher.zip)
 
 ![](Icons/AdobeZii.png)
@@ -336,13 +336,13 @@ Adobe Premiere Rush
 ![](Icons/ParagonNTFS.png)
 Paragon NTFS 可以说是 Mac 上最知名的一款 NTFS 分区驱动了，能够让我们读写 NTFS 分区，因为在Mac OS X 系统上，默认对NTFS分区只能读而不能写，但我们的移动硬盘或U盘很多都是用NTFS进行的分区，所以当你发现在Mac上无法往移动硬盘或U盘中写入数据时，大部分原因是你没有按照NTFS分区驱动，安装此软件即可。
 ![](Assets/ParagonNTFS.jpg)
-##  Path Finder `8.5.4`
+##  Path Finder `8.6`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Path%20Finder.zip)
 
 ![](Icons/PathFinder.png)
 Path Finder 是一个文件浏览器，结合熟悉的搜索界面与强大的实用程序和创新的功能。Path Finder  是一款功能强劲并足以取代Finder的超赞软件，它完全能够媲美Finder，并且屡受好评。
 ![](Assets/PathFinder.jpg)
-##  DMG Canvas `2.4.1`
+##  DMG Canvas `2.4.4`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/DMG%20Canvas.zip)
 
 ![](Icons/DMGCanvas.png)
@@ -354,7 +354,7 @@ DMG Canvas是一款Mac上快速生成DMG镜像的工具，能够自定义镜像�
 ![](Icons/PolarrPhotoEditorPro.png)
 泼辣修图是一款Mac上给广大摄影玩家和发烧友设计的高级且易用的修图软件，增加了Photos.app 拓展插件等功能，软件小巧但功能强大，12组高质量的滤镜组合针对迅速修片！
 ![](Assets/PolarrPhotoEditorPro.jpg)
-##  Keka `1.1.16`
+##  Keka `1.1.17`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Keka.zip)
 
 ![](Icons/Keka.png)
@@ -368,7 +368,7 @@ Keka 是比较常用的压缩软件，体积小，简单易用，速度较快。
 ![](Icons/PDFExpert.png)
 PDF Expert 是备受称赞的PDF阅读工具，界面简洁、PDF打开和浏览速度都很不错，要比自带的预览好用多了.
 ![](Assets/PDFExpert.jpg)
-##  AdGuard `2.0.6`
+##  AdGuard `2.1.2`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/AdGuard.zip)
 
 ![](Icons/AdGuard.png)
