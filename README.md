@@ -392,7 +392,7 @@ Wondershare Recoverit 是一个非常可靠的数据恢复工具，它可以从�
 ![](Icons/AxureRP.png)
 Axure RP是最知名和最强大的专业的快速原型设计工具，让负责定义需求和规格、设计功能和界面的专家能够快速创建应用软件或Web网站的线框图、流程图、原型和规格说明文档。
 ![](Assets/AxureRP.jpg)
-##  Fantastical 2 `2.5.9`
+##  Fantastical 2 `2.5.10`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Fantastical%202.zip)
 
 ![](Icons/Fantastical.png)
@@ -410,7 +410,7 @@ iText是一款从图片中识别文字的OCR（光学字符识别）工具。通
 ![](Icons/uBar.png)
 uBar 是一款让你的 Mac 拥有类似 Windows 的任务栏的工具，如果你不想要 Dock 栏，还是喜欢 Windows 上的任务栏，那么这款软件就可以帮助你实现这个需求，当然，Dock和任务栏也可以一起使用
 ![](Assets/uBar.jpg)
-##  PDF Squeezer `3.10.3`
+##  PDF Squeezer `3.10.4`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/PDF%20Squeezer.zip)
 
 ![](Icons/PDFSqueezer.png)
