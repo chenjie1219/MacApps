@@ -47,7 +47,7 @@ Reveal 是Mac os平台上的一款开发者调试IOS应用的Mac开发软件，�
 
 ![](Assets/Reveal.gif)
 
-## MWeb `3.2.3`
+## MWeb `3.2.7`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/MWeb.zip)
 
 ![](Icons/MWeb.png)
@@ -144,7 +144,7 @@ MacBooster 是一款Mac上优秀的系统安全扫描和垃圾清理工具，Mac
 
 ![](Assets/MacBooster.jpg)
 
-## iMazing `2.9.14`
+## iMazing `2.10.0`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/iMazing.zip)
 
 ![](Icons/iMazing.png)
@@ -272,8 +272,8 @@ Parallels Desktop for Mac 是功能最强大灵活度最高的虚拟化方案，
 
 ![](Assets/ParallelsDesktop.jpg)
 
-## Adobe Zii Patcher `4.4.2`
-[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Adobe%20Zii%20Patcher.zip)
+## Adobe Zii 2019 `4.4.3`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Adobe%20Zii%202019.zip)
 
 ![](Icons/AdobeZii.png)
 目前支持以下Adobe CC 2019 Mac 授权激活
@@ -416,7 +416,7 @@ uBar 是一款让你的 Mac 拥有类似 Windows 的任务栏的工具，如果�
 ![](Icons/PDFSqueezer.png)
 PDF Squeezer是一款Mac上压缩PDF文件大小的工具，仅需要简单的拖拽，就可以快速的压缩PDF文件的体积，针对图片生成的PDF文件可以很好的压缩大小，支持批量处理和自定义压缩配置。
 ![](Assets/PDFSqueezer.jpg)
-##  Goldie App `1.3.1`
+##  Goldie App `1.5.1`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Goldie%20App.zip)
 
 ![](Icons/GoldieApp.png)
