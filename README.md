@@ -104,7 +104,7 @@ Navicat Premium 是最优秀的数据库图形化管理客户端，支持MySQL�
 
 ![](Assets/NavicatPremium.jpg)
 
-## Downie `3.8.2`
+## Downie `3.8.4`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Downie%203.zip)
 
 ![](Icons/Downie.png)
@@ -120,7 +120,7 @@ Creo for Mac开发工具，移动应用，集成了支持设计的用户界面�
 
 ![](Assets/Creo.jpg)
 
-## Transmit `5.5.2`
+## Transmit `5.6.0`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Transmit.zip)
 
 ![](Icons/Transmit.png)
@@ -144,7 +144,7 @@ MacBooster 是一款Mac上优秀的系统安全扫描和垃圾清理工具，Mac
 
 ![](Assets/MacBooster.jpg)
 
-## iMazing `2.10.0`
+## iMazing `2.10.2`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/iMazing.zip)
 
 ![](Icons/iMazing.png)
@@ -176,7 +176,7 @@ Alfred 是Mac上最好用的快速启动工具，修复了大量问题，Alfred�
 
 ![](Assets/Alfred.jpg)
 
-## Sketch `57.1`
+## Sketch `58.0`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Sketch.zip)
 
 ![](Icons/Sketch.png)
@@ -272,7 +272,7 @@ Parallels Desktop for Mac 是功能最强大灵活度最高的虚拟化方案，
 
 ![](Assets/ParallelsDesktop.jpg)
 
-## Adobe Zii 2019 `4.4.3`
+## Adobe Zii 2019 `4.4.4`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Adobe%20Zii%202019.zip)
 
 ![](Icons/AdobeZii.png)
@@ -342,7 +342,7 @@ Paragon NTFS 可以说是 Mac 上最知名的一款 NTFS 分区驱动了，能�
 ![](Icons/PathFinder.png)
 Path Finder 是一个文件浏览器，结合熟悉的搜索界面与强大的实用程序和创新的功能。Path Finder  是一款功能强劲并足以取代Finder的超赞软件，它完全能够媲美Finder，并且屡受好评。
 ![](Assets/PathFinder.jpg)
-##  DMG Canvas `2.4.4`
+##  DMG Canvas `3.0`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/DMG%20Canvas.zip)
 
 ![](Icons/DMGCanvas.png)
@@ -434,3 +434,9 @@ Goldie App 是mac上一款非常强大的黄金比例设计工具，Goldie App�
 ![](Icons/XMindZEN.png)
 XMind ZEN 是一款全新的思维导图软件，也是Xmind新出的产品。Xmind ZEN采用全新的内核，拥有经典Xmind操作体验，完美坐到一种全新却不失经典的体验，界面简洁，上手容易操作简单。
 ![](Assets/XMindZEN.jpg)
+##  Eagle `1.9.2`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Eagle.zip)
+
+![](Icons/Eagle.png)
+Eagle 是一款非常好用的mac图片管理工具，可以帮助用户轻松整理电脑中的图片，让你再也不用因为图片太乱而烦恼。Eagle mac版完美结合图片收集、整理、搜索等三大功能，轻松完成图片查看、整理、分类，迅速保存你喜爱的图片，让设计素材保持整洁，让你以更高效的方式保管您的图片，也可以作为图片浏览器使用，功能非常强大。
+![](Assets/Eagle.jpg)
