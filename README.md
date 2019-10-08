@@ -39,15 +39,15 @@ Hopper Disassembler 是一款Mac上强大的二进制反编译工具，可让您
 
 ![](Assets/HopperDisassembler.jpg)
 
-## Reveal `21`
-[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Reveal.dmg)
+## Reveal `24`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Reveal.zip)
 
 ![](Icons/Reveal.png)
 Reveal 是Mac os平台上的一款开发者调试IOS应用的Mac开发软件，它能够在运行时调试和修改iOS应用程序。Reveal能连接到应用程序，并允许开发者编辑各种用户界面参数，这反过来会立即反应在程序的UI上。
 
 ![](Assets/Reveal.gif)
 
-## MWeb `3.2.7`
+## MWeb `3.3.1`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/MWeb.zip)
 
 ![](Icons/MWeb.png)
@@ -152,8 +152,8 @@ iMazing 是一款Mac上优秀的 iOS 设备管理工具，功能与 iTools Pro �
 
 ![](Assets/iMazing.jpg)
 
-## MarginNote `3.3.6007`
-[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/MarginNote.zip)
+## MarginNote `3.4.5`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/MarginNote%203.zip)
 
 ![](Icons/MarginNote.png)
 MarginNote 是一款Mac上功能强大的阅读和学习工具软件，它将PDF/EPUB阅读器和多种学习工具集成起来，使得学习者可以在学习时从不同的维度将知识进行重组，连接，从而达到记住，领会的效果，很不错的一款阅读学习工具！
@@ -330,7 +330,7 @@ Adobe Premiere Rush
 
 下载并安装 Microsoft Office 2019 for Mac 安装包，然后安装 Microsoft_Office_2019_VL_Serializer.pkg
 ![](Assets/Microsoft_Office_2019_VL_Serializer.jpg)
-##  Paragon NTFS `15.5.53`
+##  Paragon NTFS `15.5.62`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Paragon%20NTFS.zip)
 
 ![](Icons/ParagonNTFS.png)
@@ -354,7 +354,7 @@ DMG Canvas是一款Mac上快速生成DMG镜像的工具，能够自定义镜像�
 ![](Icons/PolarrPhotoEditorPro.png)
 泼辣修图是一款Mac上给广大摄影玩家和发烧友设计的高级且易用的修图软件，增加了Photos.app 拓展插件等功能，软件小巧但功能强大，12组高质量的滤镜组合针对迅速修片！
 ![](Assets/PolarrPhotoEditorPro.jpg)
-##  Keka `1.1.17`
+##  Keka `1.2.0`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Keka.zip)
 
 ![](Icons/Keka.png)
@@ -368,7 +368,7 @@ Keka 是比较常用的压缩软件，体积小，简单易用，速度较快。
 ![](Icons/PDFExpert.png)
 PDF Expert 是备受称赞的PDF阅读工具，界面简洁、PDF打开和浏览速度都很不错，要比自带的预览好用多了.
 ![](Assets/PDFExpert.jpg)
-##  AdGuard `2.1.2`
+##  AdGuard `2.1.3`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/AdGuard.zip)
 
 ![](Icons/AdGuard.png)
@@ -386,13 +386,13 @@ PDF Converter with OCR for Mac是一款具有OCR(光学字符识别技术)的PDF
 ![](Icons/Recoverit.png)
 Wondershare Recoverit 是一个非常可靠的数据恢复工具，它可以从任何存储介质中恢复数据。无论你的数据从哪里丢失，它就能从哪里帮您找回来，包括删除的文件，回收站，格式化磁盘，分区丢失，外部设备，病毒攻击数据等等。
 ![](Assets/Recoverit.jpg)
-##  Axure RP `9.0.0.3650`
+##  Axure RP `9.0.0.3669`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Axure%20RP%209.zip)
 
 ![](Icons/AxureRP.png)
 Axure RP是最知名和最强大的专业的快速原型设计工具，让负责定义需求和规格、设计功能和界面的专家能够快速创建应用软件或Web网站的线框图、流程图、原型和规格说明文档。
 ![](Assets/AxureRP.jpg)
-##  Fantastical 2 `2.5.10`
+##  Fantastical 2 `2.5.11`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Fantastical%202.zip)
 
 ![](Icons/Fantastical.png)
