@@ -55,7 +55,7 @@ MWeb 是一款Mac上专业的Markdown写作、记笔记、静态博客生成软�
 
 ![](Assets/MWeb.jpg)
 
-## Beyond Compare `4.2.10`
+## Beyond Compare `4.3.0`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Beyond%20Compare.zip)
 
 ![](Icons/BeyondCompare.png)
@@ -368,7 +368,7 @@ Keka 是比较常用的压缩软件，体积小，简单易用，速度较快。
 ![](Icons/PDFExpert.png)
 PDF Expert 是备受称赞的PDF阅读工具，界面简洁、PDF打开和浏览速度都很不错，要比自带的预览好用多了.
 ![](Assets/PDFExpert.jpg)
-##  AdGuard `2.1.3`
+##  AdGuard `2.1.4`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/AdGuard.zip)
 
 ![](Icons/AdGuard.png)
