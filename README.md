@@ -15,7 +15,7 @@
 
 ---
 
-## CleanMyMac X `4.4.7`
+## CleanMyMac X `4.5.0`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/CleanMyMac%20X.zip)
 
 ![](Icons/CleanMyMacX.png)
@@ -272,7 +272,7 @@ Parallels Desktop for Mac 是功能最强大灵活度最高的虚拟化方案，
 
 ![](Assets/ParallelsDesktop.jpg)
 
-## Adobe Zii 2019 `4.4.4`
+## Adobe Zii 2019 `4.4.5`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Adobe%20Zii%202019.zip)
 
 ![](Icons/AdobeZii.png)
