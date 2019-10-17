@@ -168,7 +168,7 @@ Icons for mac是一款运行在macOS平台上的图标素材软件。这款软�
 
 ![](Assets/Icons.jpg)
 
-## Alfred `4.0.4`
+## Alfred `4.0.6`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Alfred%204.zip)
 
 ![](Icons/Alfred.png)
@@ -176,7 +176,7 @@ Alfred 是Mac上最好用的快速启动工具，修复了大量问题，Alfred�
 
 ![](Assets/Alfred.jpg)
 
-## Sketch `58.0`
+## Sketch `59.0`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Sketch.zip)
 
 ![](Icons/Sketch.png)
@@ -208,7 +208,7 @@ Sublime Text 是Mac os平台上的一款非常不错的代码编辑器,同时 Su
 
 ![](Assets/SublimeText.jpg)
 
-## iRingg `1.0.40`
+## iRingg `1.0.42`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/iRingg.zip)
 
 ![](Icons/iRingg.png)
@@ -392,7 +392,7 @@ Wondershare Recoverit 是一个非常可靠的数据恢复工具，它可以从�
 ![](Icons/AxureRP.png)
 Axure RP是最知名和最强大的专业的快速原型设计工具，让负责定义需求和规格、设计功能和界面的专家能够快速创建应用软件或Web网站的线框图、流程图、原型和规格说明文档。
 ![](Assets/AxureRP.jpg)
-##  Fantastical 2 `2.5.11`
+##  Fantastical 2 `2.5.12`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Fantastical%202.zip)
 
 ![](Icons/Fantastical.png)
