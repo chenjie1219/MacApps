@@ -104,7 +104,7 @@ Navicat Premium 是最优秀的数据库图形化管理客户端，支持MySQL�
 
 ![](Assets/NavicatPremium.jpg)
 
-## Downie `3.8.4`
+## Downie `3.8.7`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Downie%203.zip)
 
 ![](Icons/Downie.png)
@@ -224,7 +224,7 @@ ePublr 是一款将文档转换为epub文件格式的工具。它不仅以不同
 
 ![](Assets/ePublr.jpg)
 
-## Boom 3D `1.3.1`
+## Boom 3D `1.3.2`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Boom%203D.zip)
 
 ![](Icons/Boom3D.png)
@@ -272,7 +272,7 @@ Parallels Desktop for Mac 是功能最强大灵活度最高的虚拟化方案，
 
 ![](Assets/ParallelsDesktop.jpg)
 
-## Adobe Zii 2019 `4.4.5`
+## Adobe Zii 2019 `4.4.7`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Adobe%20Zii%202019.zip)
 
 ![](Icons/AdobeZii.png)
