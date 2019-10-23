@@ -176,7 +176,7 @@ Alfred 是Mac上最好用的快速启动工具，修复了大量问题，Alfred�
 
 ![](Assets/Alfred.jpg)
 
-## Sketch `59.0`
+## Sketch `59.1`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Sketch.zip)
 
 ![](Icons/Sketch.png)
@@ -200,7 +200,7 @@ Pixelmator Pro 是知名的绘图软件Pixelmator的专业高级版本，专为M
 
 ![](Assets/1Password.jpg)
 
-## Sublime Text `3208`
+## Sublime Text `3.2.2`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Sublime%20Text.zip)
 
 ![](Icons/SublimeText.png)
@@ -272,7 +272,7 @@ Parallels Desktop for Mac 是功能最强大灵活度最高的虚拟化方案，
 
 ![](Assets/ParallelsDesktop.jpg)
 
-## Adobe Zii 2019 `4.4.7`
+## Adobe Zii 2019 `4.4.8`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Adobe%20Zii%202019.zip)
 
 ![](Icons/AdobeZii.png)
