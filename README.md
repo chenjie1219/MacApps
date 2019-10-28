@@ -47,7 +47,7 @@ Reveal 是Mac os平台上的一款开发者调试IOS应用的Mac开发软件，�
 
 ![](Assets/Reveal.gif)
 
-## MWeb `3.3.1`
+## MWeb `3.3.2`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/MWeb.zip)
 
 ![](Icons/MWeb.png)
@@ -55,7 +55,7 @@ MWeb 是一款Mac上专业的Markdown写作、记笔记、静态博客生成软�
 
 ![](Assets/MWeb.jpg)
 
-## Beyond Compare `4.3.0`
+## Beyond Compare `4.3.1`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Beyond%20Compare.zip)
 
 ![](Icons/BeyondCompare.png)
@@ -104,7 +104,7 @@ Navicat Premium 是最优秀的数据库图形化管理客户端，支持MySQL�
 
 ![](Assets/NavicatPremium.jpg)
 
-## Downie `3.8.7`
+## Downie `3.8.8`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Downie%203.zip)
 
 ![](Icons/Downie.png)
@@ -272,11 +272,11 @@ Parallels Desktop for Mac 是功能最强大灵活度最高的虚拟化方案，
 
 ![](Assets/ParallelsDesktop.jpg)
 
-## Adobe Zii 2019 `4.4.8`
-[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Adobe%20Zii%202019.zip)
+## Adobe Zii 2020 `5.0.0`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Adobe%20Zii%202020.zip)
 
 ![](Icons/AdobeZii.png)
-目前支持以下Adobe CC 2019 Mac 授权激活
+目前支持以下Adobe CC 授权激活
 
 Adobe Acrobat DC
 
@@ -312,9 +312,9 @@ Adobe Premiere Pro CC 2019
 
 Adobe XD CC
 
-Adobe Premiere Rush
+Adobe Premiere Elements 2020 v18.0
 
-其余的等待TNT团队更新
+Adobe Photoshop Elements 2020 v18.0
 
 **使用说明**
 
@@ -354,7 +354,7 @@ DMG Canvas是一款Mac上快速生成DMG镜像的工具，能够自定义镜像�
 ![](Icons/PolarrPhotoEditorPro.png)
 泼辣修图是一款Mac上给广大摄影玩家和发烧友设计的高级且易用的修图软件，增加了Photos.app 拓展插件等功能，软件小巧但功能强大，12组高质量的滤镜组合针对迅速修片！
 ![](Assets/PolarrPhotoEditorPro.jpg)
-##  Keka `1.2.0`
+##  Keka `1.1.21`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Keka.zip)
 
 ![](Icons/Keka.png)
