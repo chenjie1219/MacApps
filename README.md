@@ -104,7 +104,7 @@ Navicat Premium 是最优秀的数据库图形化管理客户端，支持MySQL�
 
 ![](Assets/NavicatPremium.jpg)
 
-## Downie `3.8.8`
+## Downie `3.8.9`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Downie%203.zip)
 
 ![](Icons/Downie.png)
@@ -120,7 +120,7 @@ Creo for Mac开发工具，移动应用，集成了支持设计的用户界面�
 
 ![](Assets/Creo.jpg)
 
-## Transmit `5.6.0`
+## Transmit `5.6.1`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Transmit.zip)
 
 ![](Icons/Transmit.png)
@@ -348,7 +348,7 @@ Path Finder 是一个文件浏览器，结合熟悉的搜索界面与强大的�
 ![](Icons/DMGCanvas.png)
 DMG Canvas是一款Mac上快速生成DMG镜像的工具，能够自定义镜像的背景、名称、窗口大小和出现位置等等，非常的好用！
 ![](Assets/DMGCanvas.jpg)
-##  Polarr Photo Editor Pro `5.5.7`
+##  Polarr Photo Editor Pro `5.10.3`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Polarr%20Photo%20Editor%20Pro.zip)
 
 ![](Icons/PolarrPhotoEditorPro.png)
