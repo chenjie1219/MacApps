@@ -144,7 +144,7 @@ MacBooster 是一款Mac上优秀的系统安全扫描和垃圾清理工具，Mac
 
 ![](Assets/MacBooster.jpg)
 
-## iMazing `2.10.2`
+## iMazing `2.10.5`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/iMazing.zip)
 
 ![](Icons/iMazing.png)
@@ -272,7 +272,7 @@ Parallels Desktop for Mac 是功能最强大灵活度最高的虚拟化方案，
 
 ![](Assets/ParallelsDesktop.jpg)
 
-## Adobe Zii 2020 `5.0.0`
+## Adobe Zii 2020 `5.0.1`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Adobe%20Zii%202020.zip)
 
 ![](Icons/AdobeZii.png)
@@ -312,9 +312,11 @@ Adobe Premiere Pro CC 2019
 
 Adobe XD CC
 
-Adobe Premiere Elements 2020 v18.0
+Adobe Photoshop 2020 21.0.0.37
 
-Adobe Photoshop Elements 2020 v18.0
+Adobe Photoshop Elements 2020 18.0
+
+Adobe Premiere Elements 2020 18.0
 
 **使用说明**
 
