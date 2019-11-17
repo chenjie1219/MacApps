@@ -15,7 +15,7 @@
 
 ---
 
-## CleanMyMac X `4.5.0`
+## CleanMyMac X `4.5.1`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/CleanMyMac%20X.zip)
 
 ![](Icons/CleanMyMacX.png)
@@ -96,7 +96,7 @@ Archiver 是一款Mac上优秀的压缩解压缩工具，具有压缩包加密�
 
 ![](Assets/Archiver.jpg)
 
-## Navicat Premium 中文版 `12.1.23`
+## Navicat Premium 中文版 `15.0.1`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Navicat%20Premium.zip)
 
 ![](Icons/NavicatPremium.png)
@@ -128,7 +128,7 @@ Transmit 是一款 Mac 上的 FTP 客户端，无论在界面还是用户体验�
 
 ![](Assets/Transmit.jpg)
 
-## Dash `4.6.5`
+## Dash `4.6.7`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Dash.zip)
 
 ![](Icons/Dash.png)
@@ -176,7 +176,7 @@ Alfred 是Mac上最好用的快速启动工具，修复了大量问题，Alfred�
 
 ![](Assets/Alfred.jpg)
 
-## Sketch `59.1`
+## Sketch `60`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Sketch.zip)
 
 ![](Icons/Sketch.png)
@@ -248,7 +248,7 @@ Trim Enabler Pro是一款Mac上实用的固态硬盘维护和检测工具, 如�
 
 ![](Assets/TrimEnablerPro.jpg)
 
-## CrossOver `18.5`
+## CrossOver `19.0.0.32154`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/CrossOver.zip)
 
 ![](Icons/CrossOver.png)
@@ -272,7 +272,7 @@ Parallels Desktop for Mac 是功能最强大灵活度最高的虚拟化方案，
 
 ![](Assets/ParallelsDesktop.jpg)
 
-## Adobe Zii 2020 `5.0.1`
+## Adobe Zii 2020 `5.0.7`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Adobe%20Zii%202020.zip)
 
 ![](Icons/AdobeZii.png)
@@ -338,7 +338,7 @@ Adobe Premiere Elements 2020 18.0
 ![](Icons/ParagonNTFS.png)
 Paragon NTFS 可以说是 Mac 上最知名的一款 NTFS 分区驱动了，能够让我们读写 NTFS 分区，因为在Mac OS X 系统上，默认对NTFS分区只能读而不能写，但我们的移动硬盘或U盘很多都是用NTFS进行的分区，所以当你发现在Mac上无法往移动硬盘或U盘中写入数据时，大部分原因是你没有按照NTFS分区驱动，安装此软件即可。
 ![](Assets/ParagonNTFS.jpg)
-##  Path Finder `8.6`
+##  Path Finder `9.0.3`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Path%20Finder.zip)
 
 ![](Icons/PathFinder.png)
